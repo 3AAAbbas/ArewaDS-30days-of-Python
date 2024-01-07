@@ -1,5 +1,5 @@
-[
-    {
+
+    most_spoken_languages = {
             "name": "Afghanistan",
             "capital": "Kabul",
             "languages": [
@@ -2617,4 +2617,3 @@
             "flag": "https://restcountries.eu/data/zwe.svg",
             "currency": "Botswana pula"
         }
-    ]
